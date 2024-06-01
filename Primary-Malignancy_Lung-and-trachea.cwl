@@ -74,8 +74,8 @@ steps:
       potentialCases:
         id: potentialCases
         source: primary-malignancy_lung-and-trachea-middle---primary/output
-  vpersonal-primary-malignancy_lung-and-trachea---primary:
-    run: vpersonal-primary-malignancy_lung-and-trachea---primary.cwl
+  personal-primary-malignancy_lung-and-trachea---primary:
+    run: personal-primary-malignancy_lung-and-trachea---primary.cwl
     out:
     - output
     in:
@@ -95,7 +95,7 @@ steps:
         source: inputModule9
       potentialCases:
         id: potentialCases
-        source: vpersonal-primary-malignancy_lung-and-trachea---primary/output
+        source: personal-primary-malignancy_lung-and-trachea---primary/output
   primary-malignancy_lung-and-trachea-pancoast's---primary:
     run: primary-malignancy_lung-and-trachea-pancoast's---primary.cwl
     out:
