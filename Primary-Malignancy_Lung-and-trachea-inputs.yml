@@ -24,7 +24,7 @@ inputModule7:
   path: python/primary-malignancy_lung-and-trachea-neoplasm---primary.py
 inputModule8:
   class: File
-  path: python/vpersonal-primary-malignancy_lung-and-trachea---primary.py
+  path: python/personal-primary-malignancy_lung-and-trachea---primary.py
 inputModule9:
   class: File
   path: python/lower-primary-malignancy_lung-and-trachea---primary.py
